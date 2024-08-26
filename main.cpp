@@ -6,9 +6,7 @@
 
     Edits made by:
     TODO: <Sugarragchaa1> -- to be added by student 1
-    TODO: <Add name of student 2 Here> -- to be added by student 2
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
- */
+*/
 #include <iostream>
 using namespace std;
 
