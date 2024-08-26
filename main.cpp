@@ -4,7 +4,6 @@
     See https://en.wikipedia.org/wiki/Rubber_duck_debugging 
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
- */
 #include <iostream>
 using namespace std;
 
