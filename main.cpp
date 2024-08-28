@@ -17,23 +17,23 @@ using namespace std;
 
 int main() {
 
-    string animal = 0;
+    string animal = "";
 
     cout << " Have you ever hver heard of rubber duck FISHING" << endl;
     cout  << " If not, see See https://en.wikipedia.org/wiki/Rubber_duck_debugging.\n" << endl;
     cout << " Which animal do you want to kill";
-    cout << " Duck";
-    cout << " Fish";
-    cout << "Alien";
+    cout << " Duck\n";
+    cout << " Fish\n";
+    cout << "Alien\n";
     cin >> animal;
             cout << "      ________  " << endl; 
-            cout << "     /        \ " << endl;
-            cout << "    /  __  __  \ " << endl; 
+            cout << "     /        \\ " << endl;
+            cout << "    /  __  __  \\" << endl; 
             cout << "    |            |" << endl;
-            cout << "    |     /\     |" << endl;
-            cout << "    \            /" << endl;
-            cout << "     \   \___/  /" << endl;
-            cout << "      \_______/" << endl;
+            cout << "    |     /\\     |" << endl;
+            cout << "    \\            /" << endl;
+            cout << "     \\   \\___/  /" << endl;
+            cout << "      \\_______/" << endl;
             cout << "        |   |" << endl;
             cout << "        |   |" << endl;
             cout << "        |   |" << endl;
@@ -55,9 +55,9 @@ int main() {
             }
             else{
                 cout << "                                     `--'--' " << endl; // TODO student 2 may change this line and may add lines below
-                cout << "                                   ,/ 0'     \ " << endl; 
+                cout << "                                   ,/ 0'     \\ " << endl; 
                 cout << "                                  'o           -'-'-'-> " << endl;
-                cout << "                                    \--------/ " << endl;
+                cout << "                                    \\--------/ " << endl;
              }
     return 0;
 }
